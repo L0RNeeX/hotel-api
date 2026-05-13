@@ -1,3 +1,7 @@
+## Author
+Oleksandr Lutsykiv
+КІ-205
+
 # Hotel API
 
 REST API для інформаційної системи готелю.
@@ -12,3 +16,12 @@ REST API для інформаційної системи готелю.
 ```bash
 npm install
 node server.js
+
+## API endpoints
+
+- GET /rooms
+- GET /guests
+- GET /bookings
+- POST /guests
+- PUT /guests/:id
+- DELETE /guests/:id
