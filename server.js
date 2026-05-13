@@ -211,4 +211,4 @@ app.use((req, res) => {
 
 app.listen(PORT, () => {
     console.log(`Сервер запущено на порту ${PORT}`);
-}});
+});
