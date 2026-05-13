@@ -15,8 +15,6 @@ REST API для інформаційної системи готелю.
 ```bash
 npm install
 node server.js
-<<<<<<< HEAD
-```
 
 ## API endpoints
 
