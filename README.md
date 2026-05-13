@@ -1,7 +1,3 @@
-## Author
-Oleksandr Lutsykiv
-КІ-205
-
 # Hotel API
 
 REST API для інформаційної системи готелю.
