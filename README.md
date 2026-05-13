@@ -1,3 +1,6 @@
+# Author
+Oleksandr Lutsykiv
+
 # Hotel API
 
 REST API для інформаційної системи готелю.
